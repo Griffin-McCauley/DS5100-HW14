@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import unittest
-from booklover import BookLover
+from ../booklover import BookLover
 
 class BookLoverTestSuite(unittest.TestCase):
     
